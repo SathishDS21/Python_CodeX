@@ -2,7 +2,7 @@
 
 This repository of Python tutorials is primarily aimed at Life Science scientists starting to peek into bioinformatics.
 
-I'm [Stefano Manzini](https://www.linkedin.com/in/stefanomanziniphd/), a molecular biologist (self-)transdifferentiated to active Python user. I routinely use Python for a variety of tasks, that can be boiled down to:
+I routinely use Python for a variety of tasks, that can be boiled down to:
 
 - Managing very large data tables (cool way to say that: data wrangling)
 - Automating custom data workflows
